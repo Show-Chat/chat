@@ -9,7 +9,7 @@ function build_embed_src() {
     const base_url = 'https://widget.mibbit.com';
 	const authmethod = 'nickserv';
 	const autoConnect = 'false';
-	const channel = 'Romania,RadioClick';
+	const channel = 'Romania,%23RadioClick';
 	const charset = 'UTF-8'; 
 	const customloading = 'Conectare'; 
 	const customprompt = 'Conecteaza-te pe RomaniaChat'; 
@@ -20,7 +20,7 @@ function build_embed_src() {
 	const noServerTab = 'true'; 
 	const promptPass = 'true'; 
 	const server = 'irc.romaniachat.eu'; 
-	const settings = '1e8c3ad71f93d242b5307eb39859092f'; /* 23b62573c30544025b565803e2a5d358 - 1e8c3ad71f93d242b5307eb39859092f */
+	const settings = '23b62573c30544025b565803e2a5d358'; /* 23b62573c30544025b565803e2a5d358 - 1e8c3ad71f93d242b5307eb39859092f */
 	
     // Get page URL information
     let url = new URL(window.location);
