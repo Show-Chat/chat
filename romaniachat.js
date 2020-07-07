@@ -1,5 +1,5 @@
 /* 
- * ShowChat www.showchat.tk by BaiatRau
+ * ShowChat www.showchat.tk by BaiatRau (qwebirc)
  */
 
 'use strict';
